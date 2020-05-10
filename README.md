@@ -1,8 +1,6 @@
 ## Technology Stack
 
-![TechStack]
-
-(https://github.com/doitmaan/MobileDeliveryServiceExtensible/blob/master/TechStack.png?raw=true)
+![TechStack](https://github.com/doitmaan/MobileDeliveryServiceExtensible/blob/master/TechStack.png?raw=true)
 
 ## Requirements
 1. [Docker](https://docs.docker.com/install/)
