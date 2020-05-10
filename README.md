@@ -3,7 +3,7 @@
 ![Image of TechStack]
 
 
-(https://github.com/doitmaan/MobileDeliveryServiceExtensible/blob/master/TechStack.png)
+(https://raw.githubusercontent.com/doitmaan/MobileDeliveryServiceExtensible/master/TechStack.png)
 
 
 ## Requirements
