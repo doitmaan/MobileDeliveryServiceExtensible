@@ -1,3 +1,10 @@
+## Introduction
+
+the Goal of this Project is to build modular Web Apps that are revolving around the Uberaization of any arbitary service, utilizes Docker, Python, GraphQL, Django , ReactJS , Mapbox GL JS , postgresql , FireBase Realtime Database.
+
+This Project is an integration to the open source e-commerce platform Saleor https://saleor.io
+
+
 ## Technology Stack
 
 ![TechStack](https://github.com/doitmaan/MobileDeliveryServiceExtensible/blob/master/TechStack.png?raw=true)
